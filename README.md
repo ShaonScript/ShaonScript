@@ -14,6 +14,7 @@
     <a href="https://www.instagram.com/rnshaon?igsh=MWNyajdnczBzejh0ag=="><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
     <a href="https://wa.me/8801765470194"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
     <a href="https://t.me/rnshawon"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+    <a href="https://drive.google.com/file/d/1C2ZZEHwg2-OzH4nLWDNssa1dq_GlBjMk/view?usp=drive_link"><img src="https://img.shields.io/badge/Download_CV-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/></a>
   </p>
 
 </div>
